@@ -6,3 +6,5 @@ It allows the users to search and find the orphanages on website.
 Programing Language: PHP
 Design : HTML , CSS, JavaScript
 Database: MYSQL
+
+use XAMPP : https://drive.google.com/file/d/1F46SEWWXFxWpuA72_BssQFKvEbm9Oogv/view?usp=drive_link
